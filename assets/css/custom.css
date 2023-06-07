@@ -1,0 +1,10 @@
+.image_border1{
+	border: 10px solid #323333;
+	transition: border-width 0.5s linear;
+}
+
+
+.image_border1:hover{
+	border: 15px solid #4e615f;
+}
+
